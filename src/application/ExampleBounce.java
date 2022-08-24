@@ -22,7 +22,7 @@ import javafx.util.Duration;
 /**
  * A basic example JavaFX program for the first lab.
  * 
- * @author Robert C. Duvall and Shannon Duvall
+ * @author Shannon Duvall
  * 
  * This program animates two squares.  The top is the "mover" and 
  * the bottom is the "grower".
